@@ -17,7 +17,7 @@ class EvaluasiSeeder extends Seeder
             'id_evaluasi' => 'EVAL-0001',
             'id_progres' => 'PROG-0001',
             'foto' => 'evaluasi1.jpg',
-            'status' => 'Belum diperiksa',
+            'status' => 'belum diperiksa',
             'catatan' => 'Evaluasi awal unit rumah',
         ]);
     }
